@@ -1,5 +1,6 @@
 # techpants.io
 
+temp url: https://erickhun.github.io/techpants/
 
 ## Smart tech pants
 
