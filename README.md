@@ -8,7 +8,12 @@
 ```
 brew install hugo # check https://gohugo.io/getting-started/installing/ for alternative method
 git clone https://github.com/erickhun/techpants.git
-cd blog
+cd techpants
+```
+
+### Launch locally (to preview your changes)
+```
+# in your repo: 
 hugo server -D # launch a server and serve it at http://localhost:1313/
 ```
 
