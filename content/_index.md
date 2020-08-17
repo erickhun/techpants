@@ -6,19 +6,22 @@ type: docs
 # Acerbo datus maxime
 
 {{< columns >}}
-## Astris ipse furtiva
+## What are tech pants?
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+Tech pants are a new, mostly men-centric, trend coming from the silicon valley and taking over the world. 
+Men are known to be less targetted by fashion, and to spend more money on durable and comfortable clothing. 
+Tech pants are the merging of these two trends: fashion and dressed pants that also feel comfortable due to their yoga-like textile.
 
 <--->
 
-## Suis quot vota
+## What kind of tech pants?
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
+There exist multiple type of tech pants for different types of situations. 
+Makes sense no? 
+Think shorts, sweat pants, chinos, dressed, etc. 
+On this page we review all kind of tech pants. Technical pants, tech chinos, yoga work pants, tech sweat pants, fleece pants, cozy pants, we have it all!
+Not only that, we're a bunch of friends spanning multiple continents, so every review provides you with price estimation and links to shop for North America, Europe, and Asia!
+How cool is that?
 {{< /columns >}}
 
 
